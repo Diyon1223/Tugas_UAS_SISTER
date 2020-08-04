@@ -1,2 +1,2 @@
 # Tugas_UAS_SISTER
-Tugas ini
+Tugas ini untuk memenuhi praktikum sister
